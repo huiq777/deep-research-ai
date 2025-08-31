@@ -52,7 +52,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/yourusername/deep-research-ai.git
+   git clone https://github.com/huiq777/deep-research-ai.git
    cd deep-research-ai
    ```
 
@@ -160,12 +160,6 @@ npm run lint
 - [Exa Search](https://exa.ai/) - 高级搜索服务
 - [Tailwind CSS](https://tailwindcss.com/) - 实用优先的CSS框架
 - [Shadcn UI](https://ui.shadcn.com/) - 高质量UI组件
-
-## 📞 联系我们
-
-- 项目主页: [https://github.com/yourusername/deep-research-ai](https://github.com/yourusername/deep-research-ai)
-- 问题反馈: [Issues](https://github.com/yourusername/deep-research-ai/issues)
-- 讨论区: [Discussions](https://github.com/yourusername/deep-research-ai/discussions)
 
 ---
 
